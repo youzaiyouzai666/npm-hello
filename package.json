@@ -1,0 +1,22 @@
+{
+  "name": "npm-hello",
+  "version": "1.0.0",
+  "description": "第一个npm 模块",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youzaiyouzai666/npm-hello.git"
+  },
+  "author": "caoyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youzaiyouzai666/npm-hello/issues"
+  },
+  "homepage": "https://github.com/youzaiyouzai666/npm-hello#readme"
+}
