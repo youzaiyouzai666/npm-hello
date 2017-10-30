@@ -1,4 +1,2 @@
-/**
- * Created by CAOYI on 2017/9/15.
- */
-"use strict";
+#!/usr/bin/env node
+console.log('npm-hello2','test222');

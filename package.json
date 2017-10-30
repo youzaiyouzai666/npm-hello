@@ -1,8 +1,9 @@
 {
-  "name": "npm-hello",
+  "name": "npm-hello2",
   "version": "1.0.0",
   "description": "第一个npm 模块",
   "main": "index.js",
+  "bin": "./bin/test.js",
   "directories": {
     "lib": "lib"
   },
