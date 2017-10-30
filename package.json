@@ -1,5 +1,5 @@
 {
-  "name": "npm-hello2",
+  "name": "npm-hello",
   "version": "1.0.0",
   "description": "第一个npm 模块",
   "main": "index.js",
