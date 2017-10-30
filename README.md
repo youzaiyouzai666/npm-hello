@@ -22,5 +22,7 @@
 ## 具体原理
 1. `npm link` 具体实现
     在目录 `C:\Users\caoyi\AppData\Roaming\npm` 下创建 ‘[项目名].cmd’;
+
     ‘[项目名].cmd’主要是引用到`package.json`文件中`bin`命令
+
     并在`C:\Users\caoyi\AppData\Roaming\npm\node_modules`下创建软链接，链接到具体项目目录底下
